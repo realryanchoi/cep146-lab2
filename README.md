@@ -2,12 +2,12 @@
 
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP146 [CLASS SECTION HERE]!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
+- Name: Ryan Choi
+- Program: Computer Programming
+- Year: Y1S1
 - Favorite Programming Language: (put your choice here)
  
 ## Course Goals
