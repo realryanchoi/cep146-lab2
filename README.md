@@ -1,8 +1,5 @@
-# cep146-lab2
-
-# My Course Portfolio
- 
-Welcome to my academic portfolio for CEP146 [CLASS SECTION HERE]!
+# Essential Tooling for Programmers (CEP146) 
+Welcome to my academic portfolio for CEP146!
  
 ## About Me
 - Name: Ryan Choi
